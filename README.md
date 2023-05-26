@@ -23,9 +23,9 @@ To switch the dataset, modify the "datasets" in train.py.
 ### Citation
 Welcome to cite our work! </br>
 
-@inproceedings{wang2022glitter, 
-  title={Graph Few-shot Learning with Task-specific Structures}, 
-  author={Wang, Song and Chen, Chen and Li, Jundong}, 
-  booktitle={NeurIPS}, 
-  year={2022} 
+@inproceedings{wang2022glitter,  
+  title={Graph Few-shot Learning with Task-specific Structures},  
+  author={Wang, Song and Chen, Chen and Li, Jundong},  
+  booktitle={NeurIPS},  
+  year={2022}  
 }
