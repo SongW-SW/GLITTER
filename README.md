@@ -2,7 +2,7 @@
 
 Thank you for your interest in our work! </br>
 
-This is the code for the NeurIPS paper Graph Few-Shot Learning with Task-Specific Structures.
+This is the code for the NeurIPS 2022 paper Graph Few-Shot Learning with Task-Specific Structures.
 
 
 ### Requirement:
